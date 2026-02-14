@@ -1,0 +1,5 @@
+{
+    "ocr_sample_1.png": "BOX 123\nA1B2C3",
+    "ocr_sample_2.png": "MILITARY CONTAINER\nXYZ-789",
+    "ocr_sample_3.png": "INDUSTRIAL PALLET\nCODE 4567"
+}
