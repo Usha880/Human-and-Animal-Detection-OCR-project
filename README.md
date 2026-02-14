@@ -34,33 +34,30 @@ The project is divided into two main parts:
 
 
 
-human_animals_project/
+hhuman_animals_project/
 
 ├── datasets/
 
-│ ├── Animals/raw-img/test/
-
-│ ├── humans/PNGImages/
-
-│ └── OCR_test_images/
-
 ├── models/
-
-│ └── animal_classifier.pth
 
 ├── results/
 
-│ ├── annotated images (.png)
-
-│ └── ocr_results.json
-
 ├── test_videos/
-
-│ └── sample videos (.mp4)
 
 ├── outputs/
 
-│ └── annotated videos (.mp4)
+├── screenshots/         
+│   ├── human1.png
+
+<img width="1920" height="1080" alt="Screenshot (596)" src="https://github.com/user-attachments/assets/7ecce535-4d7c-4f9a-8781-f13dd6cf030b" />
+
+│   ├── animal1.png
+
+<img width="1920" height="1080" alt="Screenshot (595)" src="https://github.com/user-attachments/assets/55416fce-4428-48cc-8c74-ae3666f11bb0" />
+
+│   └── ocr1.png
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6ed7e27-d588-4506-bbf8-15b9cac14aca" />
 
 ├── main.py
 
@@ -69,6 +66,7 @@ human_animals_project/
 ├── requirements.txt
 
 └── README.md
+
 
 
 ---
